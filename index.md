@@ -4,3 +4,6 @@
 ``` javascript
 var myVar = "This is my first codeblock in github";
 ```
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
